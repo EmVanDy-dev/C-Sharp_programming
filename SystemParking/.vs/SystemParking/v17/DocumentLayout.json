@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ssssssss\\C#\\SystemParking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|g:\\ssssssss\\c#\\systemparking\\systemparking\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|solutionrelative:systemparking\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|G:\\ssssssss\\C#\\SystemParking\\systemparking\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|solutionrelative:systemparking\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|G:\\ssssssss\\C#\\SystemParking\\systemparking\\formdashboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|solutionrelative:systemparking\\formdashboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|G:\\ssssssss\\C#\\SystemParking\\systemparking\\formdashboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|solutionrelative:systemparking\\formdashboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|G:\\ssssssss\\C#\\SystemParking\\systemparking\\parkingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|solutionrelative:systemparking\\parkingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|G:\\ssssssss\\C#\\SystemParking\\systemparking\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|solutionrelative:systemparking\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|G:\\ssssssss\\C#\\SystemParking\\systemparking\\parkingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|solutionrelative:systemparking\\parkingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|G:\\ssssssss\\C#\\SystemParking\\systemparking\\formhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|solutionrelative:systemparking\\formhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|G:\\ssssssss\\C#\\SystemParking\\systemparking\\formparking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|solutionrelative:systemparking\\formparking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|G:\\ssssssss\\C#\\SystemParking\\systemparking\\formparking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|solutionrelative:systemparking\\formparking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|G:\\ssssssss\\C#\\SystemParking\\systemparking\\formhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|solutionrelative:systemparking\\formhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|G:\\ssssssss\\C#\\SystemParking\\systemparking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|solutionrelative:systemparking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|G:\\ssssssss\\C#\\SystemParking\\systemparking\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|solutionrelative:systemparking\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|G:\\ssssssss\\C#\\SystemParking\\systemparking\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB914BCB-1789-4C86-8135-DFE594C6EE3F}|SystemParking\\SystemParking.csproj|solutionrelative:systemparking\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormParking.cs",
+              "DocumentMoniker": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\FormParking.cs",
+              "RelativeDocumentMoniker": "SystemParking\\FormParking.cs",
+              "ToolTip": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\FormParking.cs",
+              "RelativeToolTip": "SystemParking\\FormParking.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAmwNgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:39:38.698Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAdmin.cs [Design]",
+              "DocumentMoniker": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "SystemParking\\FormAdmin.cs",
+              "ToolTip": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\FormAdmin.cs [Design]",
+              "RelativeToolTip": "SystemParking\\FormAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:50:40.124Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAdmin.cs",
+              "DocumentMoniker": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "SystemParking\\FormAdmin.cs",
+              "ToolTip": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\FormAdmin.cs",
+              "RelativeToolTip": "SystemParking\\FormAdmin.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAswI4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:49:13.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormDashboardAdmin.cs",
+              "DocumentMoniker": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\FormDashboardAdmin.cs",
+              "RelativeDocumentMoniker": "SystemParking\\FormDashboardAdmin.cs",
+              "ToolTip": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\FormDashboardAdmin.cs",
+              "RelativeToolTip": "SystemParking\\FormDashboardAdmin.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAIwGkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:49:01.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormDashboardAdmin.cs [Design]",
+              "DocumentMoniker": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\FormDashboardAdmin.cs",
+              "RelativeDocumentMoniker": "SystemParking\\FormDashboardAdmin.cs",
+              "ToolTip": "D:\\C#\\SystemParking\\SystemParking\\FormDashboardAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:49:04.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParkingForm.cs",
+              "DocumentMoniker": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\ParkingForm.cs",
+              "RelativeDocumentMoniker": "SystemParking\\ParkingForm.cs",
+              "ToolTip": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\ParkingForm.cs",
+              "RelativeToolTip": "SystemParking\\ParkingForm.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAYwFsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:35:11.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\Program.cs",
+              "RelativeDocumentMoniker": "SystemParking\\Program.cs",
+              "ToolTip": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\Program.cs",
+              "RelativeToolTip": "SystemParking\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:53:40.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormHistory.cs",
+              "DocumentMoniker": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\FormHistory.cs",
+              "RelativeDocumentMoniker": "SystemParking\\FormHistory.cs",
+              "ToolTip": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\FormHistory.cs",
+              "RelativeToolTip": "SystemParking\\FormHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:42:18.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormHistory.cs [Design]",
+              "DocumentMoniker": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\FormHistory.cs",
+              "RelativeDocumentMoniker": "SystemParking\\FormHistory.cs",
+              "ToolTip": "D:\\C#\\SystemParking\\SystemParking\\FormHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:48:46.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormParking.cs [Design]",
+              "DocumentMoniker": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\FormParking.cs",
+              "RelativeDocumentMoniker": "SystemParking\\FormParking.cs",
+              "ToolTip": "D:\\C#\\SystemParking\\SystemParking\\FormParking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:39:36.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "SystemParking\\DashboardForm.cs",
+              "ToolTip": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\DashboardForm.cs",
+              "RelativeToolTip": "SystemParking\\DashboardForm.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowBYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:37:41.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ParkingForm.cs [Design]",
+              "DocumentMoniker": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\ParkingForm.cs",
+              "RelativeDocumentMoniker": "SystemParking\\ParkingForm.cs",
+              "ToolTip": "D:\\C#\\SystemParking\\SystemParking\\ParkingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:11:04.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormCustomer.cs",
+              "DocumentMoniker": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\FormCustomer.cs",
+              "RelativeDocumentMoniker": "SystemParking\\FormCustomer.cs",
+              "ToolTip": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\FormCustomer.cs",
+              "RelativeToolTip": "SystemParking\\FormCustomer.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAqwCIBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:28:37.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormCustomer.cs [Design]",
+              "DocumentMoniker": "G:\\ssssssss\\C#\\SystemParking\\SystemParking\\FormCustomer.cs",
+              "RelativeDocumentMoniker": "SystemParking\\FormCustomer.cs",
+              "ToolTip": "D:\\C#\\SystemParking\\SystemParking\\FormCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:28:34.031Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
